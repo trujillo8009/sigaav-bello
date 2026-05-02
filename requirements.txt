@@ -1,3 +1,5 @@
 streamlit
 databricks-sql-connector
 pandas
+Pillow
+openpyxl
